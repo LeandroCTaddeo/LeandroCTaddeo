@@ -9,7 +9,7 @@
       <img alt="HTML5" width="40px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"/>
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank">
-      <img alt="CSS3" width="40px" src="https://www.logolynx.com/images/logolynx/s_0d/0d35ef6c8d4fdaf0590228404dc6448b.png"/>
+      <img alt="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
       <img alt="Javascript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"/>
